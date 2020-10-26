@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/andrentfs/clear-node-api/issues"
   },
-  "homepage": "https://github.com/andrentfs/clear-node-api#readme"
+  "homepage": "https://github.com/andrentfs/clear-node-api#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
