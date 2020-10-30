@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "test:staged": "jest --passWithNoTests"
+    "test": "jest --passWithNoTests --runInBand",
+    "test:staged": "jest --passWithNoTests --runInBand"
   },
   "repository": {
     "type": "git",
