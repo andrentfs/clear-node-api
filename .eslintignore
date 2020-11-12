@@ -1,2 +1,4 @@
+.devcontainer
 node_modules
 dist
+coverage
